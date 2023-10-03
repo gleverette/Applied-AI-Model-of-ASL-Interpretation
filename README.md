@@ -12,14 +12,14 @@ My partner and I, focusing on dataset diversification, incorporated over 1500 ph
 Below are some photos highlighting the quality and photo diversification between the original and new datasets. This is included due to the density of the training files containing all of the images. 
 
 Old dataset:
-<img src="https://github.com/gleverette/Applied-AI-Model-of-ASL-Interpretation/assets/108033707/99d67e78-ad23-4c14-a610-c5c7c9aa341b" style=" width:60px ; height:60px "  >
-<img src="https://github.com/gleverette/Applied-AI-Model-of-ASL-Interpretation/assets/108033707/eb2819cb-6356-4b6c-8447-644a96d6e354" style=" width:60px ; height:60px "  >
-<img src="https://github.com/gleverette/Applied-AI-Model-of-ASL-Interpretation/assets/108033707/95403d25-c812-4f97-b654-b4aee7a94b9d" style=" width:60px ; height:60px "  >
+<img src="https://github.com/gleverette/Applied-AI-Model-of-ASL-Interpretation/assets/108033707/99d67e78-ad23-4c14-a610-c5c7c9aa341b" style=" width:120px ; height:120px "  >
+<img src="https://github.com/gleverette/Applied-AI-Model-of-ASL-Interpretation/assets/108033707/eb2819cb-6356-4b6c-8447-644a96d6e354" style=" width:120px ; height:120px "  >
+<img src="https://github.com/gleverette/Applied-AI-Model-of-ASL-Interpretation/assets/108033707/95403d25-c812-4f97-b654-b4aee7a94b9d" style=" width:120px ; height:120px "  >
 
 New dataset:
-<img src="https://github.com/gleverette/Applied-AI-Model-of-ASL-Interpretation/assets/108033707/2e7965d5-0af3-4c3d-9b23-ddf3a355f3df" style=" width:60px ; height:60px "  >
-<img src="https://github.com/gleverette/Applied-AI-Model-of-ASL-Interpretation/assets/108033707/745dadc0-54b4-4903-b5d0-c1cb7876787d" style=" width:60px ; height:60px "  >
-<img src="https://github.com/gleverette/Applied-AI-Model-of-ASL-Interpretation/assets/108033707/c2676705-3dbb-429b-a1f4-46b8cfe5bbe3" style=" width:60px ; height:60px "  >
+<img src="https://github.com/gleverette/Applied-AI-Model-of-ASL-Interpretation/assets/108033707/2e7965d5-0af3-4c3d-9b23-ddf3a355f3df" style=" width:120px ; height:120px "  >
+<img src="https://github.com/gleverette/Applied-AI-Model-of-ASL-Interpretation/assets/108033707/745dadc0-54b4-4903-b5d0-c1cb7876787d" style=" width:120px ; height:120px "  >
+<img src="https://github.com/gleverette/Applied-AI-Model-of-ASL-Interpretation/assets/108033707/c2676705-3dbb-429b-a1f4-46b8cfe5bbe3" style=" width:120px ; height:120px "  >
 
 
 
