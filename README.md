@@ -6,4 +6,4 @@ Working in a team of 5 to enhance this pre-existing model with a three-pronged a
 2. Modifying transforms to account for varying image clarity or color
 3. Using edge detection to highlight hand shape.
 
-My partner and I, focusing on dataset diversification, incorporated over 1500 photos from Kaggle datasets and original photos we took ourselves. This difference in data proportions was due to the computing power available to us. With training on the mixed dataset and testing it only on the new images, with diverse backgrounds, we reported a 7% accuracy increase in ASL recognition. 
+My partner and I, focusing on dataset diversification, incorporated over 1500 photos from Kaggle datasets and original photos we took ourselves. Data splits and organization were used to follow the structure from the original homogenous dataset. This difference in data proportions was due to the computing power available to us. With training on the mixed dataset and testing it only on the new images, with diverse backgrounds, we reported a 7% accuracy increase in ASL recognition. 
