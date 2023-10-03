@@ -1,5 +1,5 @@
 # Applied-AI-Model-of-ASL-Interpretation
-Our initial machine-learning model was trained on a homogenous dataset of 78,000 images depicting a hand, showing a letter from the ASL alphabet, against a white background. 
+Our initial machine-learning model was trained on a homogenous dataset of 78,000 images depicting a hand, showing a letter from the ASL alphabet, against a white background. The original training dataset is too large to include, but the testing dataset is avaailable for comparison purposes. 
 
 Working in a team of 5 to enhance this pre-existing model with a three-pronged approach: 
 1. Diversifying the photo dataset with colorful backgrounds
