@@ -21,9 +21,9 @@ Old dataset:
 New dataset: 
 <br>
 <div style= ""width:60px ; height:60px">
-![image](https://github.com/gleverette/Applied-AI-Model-of-ASL-Interpretation/assets/108033707/2e7965d5-0af3-4c3d-9b23-ddf3a355f3df)<br>
-![image](https://github.com/gleverette/Applied-AI-Model-of-ASL-Interpretation/assets/108033707/745dadc0-54b4-4903-b5d0-c1cb7876787d)<br>
-![image](https://github.com/gleverette/Applied-AI-Model-of-ASL-Interpretation/assets/108033707/c2676705-3dbb-429b-a1f4-46b8cfe5bbe3)<br>
+  ![image](https://github.com/gleverette/Applied-AI-Model-of-ASL-Interpretation/assets/108033707/2e7965d5-0af3-4c3d-9b23-ddf3a355f3df)<br>
+  ![image](https://github.com/gleverette/Applied-AI-Model-of-ASL-Interpretation/assets/108033707/745dadc0-54b4-4903-b5d0-c1cb7876787d)<br>
+  ![image](https://github.com/gleverette/Applied-AI-Model-of-ASL-Interpretation/assets/108033707/c2676705-3dbb-429b-a1f4-46b8cfe5bbe3)<br>
 </div>
 
 
